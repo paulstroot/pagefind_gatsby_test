@@ -1,0 +1,5 @@
+# https://pagefind.app/docs/config-options/
+source: public
+bundle_dir: _pagefind
+verbose: true
+serve: false # This will generate a local URL to test at
